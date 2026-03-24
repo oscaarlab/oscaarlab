@@ -10,7 +10,7 @@ I’m seeking **entry-level / internship** opportunities as a **Cloud Security E
 
 Currently: **AZ-900** (in progress) + **IBM Cybersecurity Analyst** + **Red Hat Enterprise Linux Fundamentals**. I’m building and implementing hands-on labs with Python security tooling, Linux hardening, and AI-assisted security triage.
 
-📫 **oscaargarci@gmail.com** · [LinkedIn](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
+📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
 
 ---
 
