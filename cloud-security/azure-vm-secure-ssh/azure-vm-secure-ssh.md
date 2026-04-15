@@ -28,7 +28,7 @@ In production environments (especially banking or regulated sectors), controllin
 ---
 ### Lab Steps (Summary)
 1. Create a **Resource Group**
-2. Deploy a **Virtual Network (VNet) with two subnets:
+2. Deploy a **Virtual Network (VNet)** with two subnets:
     - `snet-management`
     - `snet-backend`
 3. Deploy a **Linux Virtual Machine**

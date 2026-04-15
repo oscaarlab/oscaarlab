@@ -71,7 +71,7 @@ Hands-on labs built around real-world scenarios and compliance frameworks (PCI-D
 ### Certifications
 
 - **IBM Cybersecurity Analyst** — IBM / Coursera *(in progress)*
-- **Red Hat Enterprise Linux Fundamentals** — Red Hat *(in progress)*
+- **Linux and Private Cloud Administration on IBM Power Systems** — Red Hat *(in progress)*
 ---
 
 📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)

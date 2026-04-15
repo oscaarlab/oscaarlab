@@ -50,3 +50,6 @@ This section is being built around Azure-based security implementations such as:
 
 - **[Azure VM deployment with secure SSH access](./azure-vm-secure-ssh/azure-vm-secure-ssh.md)**
 Secure Azure VM deployment with SSH hardening, NSG restrictions, and firewall validation.
+
+- **[Azure Policy + Defender for Cloud Governance Baseline](./azure-policy-defender/azure-policy-defender.md)**
+Governance baseline with Azure Policy tag enforcement, regional restrictions, and Defender for Cloud visibility.
